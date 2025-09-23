@@ -1,1 +1,3 @@
-req is flash
+flask
+flask_sqlalchemy
+flask-cors
